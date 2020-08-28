@@ -10,6 +10,6 @@ Used tools:
 
 
 # Start
-` yarn install`
-` yarn run` => enter
+` yarn install`  
+` yarn run` => enter  
 ` storybook` => enter
