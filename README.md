@@ -7,3 +7,9 @@ Used tools:
 -   TypeScript
 -   Storybook
 -   Rollup
+
+
+# Start
+` yarn install
+` yarn run => enter
+` storybook => enter
