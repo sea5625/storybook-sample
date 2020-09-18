@@ -1,6 +1,6 @@
-# Sample storybook(react-uikit-sample)
+# Balkari UI Kit (react-uikit)
 
-A Sample React UI Kit.
+Balkari UI Kit.
 
 Used tools:
 
@@ -11,5 +11,4 @@ Used tools:
 
 # Start
 ` yarn install`  
-` yarn run` => enter  
-` storybook` => enter
+` yarn run storybook` 
